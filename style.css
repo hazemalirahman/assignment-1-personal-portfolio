@@ -1,0 +1,133 @@
+.caption{
+    background-color: darkblue;
+    color: white;
+    margin:50px auto;
+    width: 70%;
+    padding: 30px;
+    border-radius: 5%;
+    text-align: center;
+}
+
+.info{
+    color: white;
+    width: 20%;
+    margin:10px;
+    padding: 10px;
+    border: white 1px solid;
+    border-radius:20%;
+    float: left;
+}
+
+.clear{
+    clear: both;
+}
+
+.about{
+    background-color: azure;
+    margin: 50px auto;
+    width: 70%;
+    padding: 10px;
+    border-radius: 5%;
+
+}
+
+.plink{
+    width: 70%;
+    margin: 20px ;
+    display: inline-block;
+}
+
+.about #pro-photo{
+    border-radius: 50%;
+    width: 150px;
+}
+
+.link-git{
+    width: 20%;
+    background-color:darkblue ;
+    
+    padding: 5%;
+    border-radius: 10px;
+}
+
+.link-git a{
+    color: white;
+}
+
+.skills{
+    background-color: azure;
+    width: 70%;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 5%;
+    
+}
+
+.box{
+    background-color: ghostwhite;
+    width: 20%;
+    margin:10px;
+    padding: 10px;
+    border: 1px wheat solid;
+    border-radius: 5%;
+    display: inline-block;
+}
+.box h3{
+    color: blue;
+}
+
+.Experience{
+    background-color: azure;
+    width: 70%;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.ex-s{
+    background-color:ghostwhite;
+    margin: 10px;
+    padding: 5px;
+    border: 1px wheat solid;
+    border-radius: 5%;
+    border-left: 5px darkblue solid;
+}
+
+.Experience img{
+    width: 10%;
+    padding: 10px;
+}
+
+.features{
+    padding: 10px;
+    display: inline-block;
+}
+.features h4{
+    color: blue;
+}
+.ex-s p{
+    width: 100%;
+    padding: 10px;
+    
+}
+
+.contact{
+    background-color:darkblue ;
+    color: white;
+    width: 70%;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 5%;
+}
+
+.contact p{
+    padding: 10px;
+}
+
+.contact a{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border: 1px wheat solid;
+    border-radius: 10%;
+}
